@@ -5,6 +5,7 @@
 @import "./buttons.css";
 
 
+
 /* RESETANDO TODOS ESPAÇAMENTO QUE TIVER NA PAGINA*/
 * {
     margin: 0;
@@ -16,3 +17,14 @@
     text-decoration: none;
 }
 
+.container {
+    width: 1024px;
+    margin: 30px auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
