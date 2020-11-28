@@ -11,4 +11,4 @@
 <p>Veja o projeto https://felipemelato.github.io/Site-Vida-Full-Stack/</p>
 ---
 
-Por ♥ Felipe Melato :wave: [Linkedin!](https://www.linkedin.com/in/felipe-melato-1a7b0a1a4) 
+Por Felipe Melato :wave: [Linkedin!](https://www.linkedin.com/in/felipe-melato-1a7b0a1a4) 
