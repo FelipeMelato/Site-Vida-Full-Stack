@@ -55,7 +55,7 @@
 }
 
 header nav ul {
-    flex-direction: column;
+    flex-direction: row;
 }
 
 header nav ul li {
