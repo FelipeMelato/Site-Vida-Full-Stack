@@ -1,0 +1,68 @@
+@media(max-width: 1150px) {
+    .container {
+        width: 950;
+    }
+}
+
+@media(max-width: 1024px) {
+    .container {
+        width: 915px;
+    }
+
+    .sobre-web-design figcaption img {
+        width: 600px;
+    }
+}
+
+@media(max-width: 915px) {
+    body {
+        background-position: left -200px;
+    }
+
+    .container {
+        width: 600px;
+    }
+
+    .row {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 665px) {
+    .container {
+        width: 400px;
+    }
+}
+
+@media (max-width: 450px) {
+    .container {
+        width: 290px;
+    }
+}
+
+@media (max-width: 375px) {
+    .container {
+        width: 590px;
+    }
+}
+
+@media (max-width: 320px) {
+    .container {
+        width: 450px;
+    }
+}
+
+header {
+    nav {
+        margin: 30px 0;
+        width: 100%;
+        padding: 10px 0 20px;
+
+        ul {
+            flex-direction:row;
+            li {
+                margin: 10px 0;
+            }
+        }
+    }
+}

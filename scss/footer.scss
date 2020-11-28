@@ -1,0 +1,17 @@
+footer{
+    flex-direction: row;
+    justify-content: center;
+
+    ul{
+        li {
+            margin: 0 30px 0;
+
+            a {
+                img {
+                    width: 30px;
+                }//end img
+            }//end a
+        }//end li
+    }//end ul
+}//end footer
+
